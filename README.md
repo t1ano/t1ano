@@ -33,12 +33,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=t1ano&show_icons=true&theme=tokyonight&hide_border=true&title_color=4b91f1&icon_color=4b91f1&text_color=c9d1d9&bg_color=0d1117" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=t1ano&layout=compact&theme=tokyonight&hide_border=true&title_color=4b91f1&text_color=c9d1d9&bg_color=0d1117" />
+  <img height="165" src="./profile/stats.svg" />
+  <img height="165" src="./profile/top-langs.svg" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=t1ano&theme=tokyonight&hide_border=true&background=0d1117&ring=4b91f1&fire=4b91f1&currStreakLabel=4b91f1" />
+  <img src="./profile/streak.svg" />
 </p>
 
 ---
