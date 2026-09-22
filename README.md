@@ -33,8 +33,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=t1ano&show_icons=true&theme=tokyonight&hide_border=true&title_color=4b91f1&icon_color=4b91f1&text_color=c9d1d9&bg_color=0d1117" />
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=t1ano&layout=compact&theme=tokyonight&hide_border=true&title_color=4b91f1&text_color=c9d1d9&bg_color=0d1117" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=t1ano&show_icons=true&theme=tokyonight&hide_border=true&title_color=4b91f1&icon_color=4b91f1&text_color=c9d1d9&bg_color=0d1117" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=t1ano&layout=compact&theme=tokyonight&hide_border=true&title_color=4b91f1&text_color=c9d1d9&bg_color=0d1117" />
 </p>
 
 <p align="center">
@@ -46,7 +46,7 @@
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=t1ano&theme=react-dark&hide_border=true&bg_color=0d1117&color=4b91f1&line=4b91f1&point=ffffff" />
+  <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=t1ano&theme=react-dark&hide_border=true&bg_color=0d1117&color=4b91f1&line=4b91f1&point=ffffff" />
 </p>
 
 ---
