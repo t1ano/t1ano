@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/kubuntu-%230079C1?style=for-the-badge&logo=kubuntu&logoColor=black">
   <img src="https://img.shields.io/badge/xubuntu-%230044AA?style=for-the-badge&logo=xubuntu&logoColor=black">
   <img src="https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=red">
+  <img src="https://img.shields.io/badge/hackthebox-%2354B848?style=for-the-badge&logo=hackthebox&logoColor=white">
 </p>
 
 <!--
