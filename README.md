@@ -25,6 +25,9 @@
   <img src="https://img.shields.io/badge/React-4b91f1?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-4b91f1?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-4b91f1?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/kubuntu-%230079C1?style=for-the-badge&logo=kubuntu&logoColor=black">
+  <img src="https://img.shields.io/badge/xubuntu-%230044AA?style=for-the-badge&logo=xubuntu&logoColor=black">
+  <img src="https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=red">
 </p>
 
 <!--
