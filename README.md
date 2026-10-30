@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4B91F1&center=true&vCenter=true&width=440&lines=Software+Developer;Open+Source+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4B91F1&center=true&vCenter=true&width=440&lines=CyberSecurity+DevOps;Open+Source+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
   </a>
 </p>
 
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/xubuntu-%230044AA?style=for-the-badge&logo=xubuntu&logoColor=black">
   <img src="https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=red">
   <img src="https://img.shields.io/badge/hackthebox-%2354B848?style=for-the-badge&logo=hackthebox&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=white">
 </p>
 
 <!--
